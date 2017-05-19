@@ -1,0 +1,37 @@
+/** 
+* Theme: 7 Pontos
+* Version 2.0
+* Since Version: 1.0
+*/
+
+/********** HEADER **********/
+.header-height { height:85px; }
+.site-header { background-color:#fff; height: 85px; position: fixed; width: 100%; z-index: 99999; top:0; border-bottom:solid 1px #1176ba; }
+
+/********** AUX **********/
+.aux { color:#1176ba; text-align:right; font-weight:bold; margin-top:5px; margin-bottom:5px; }
+.aux a, .aux a:hover { color:#1176ba; }
+.aux .wpb_content_element { margin-bottom:0; }
+
+
+/********** LOGO **********/
+.logo h1 { margin:0; }
+
+/********** MAIN MENU **********/
+.main-menu { display:inline-block; background-color:#1176ba; width:100%; }
+.main-menu a { color:#fff; padding: 15px 20px !important; font-size:16px; text-transform:uppercase!important; font-weight:bold; }
+.main-menu .ubermenu-item.ubermenu-item-level-0 { width:20%; text-align:center; }
+.main-menu .ubermenu-submenu { background-color:#3357a6; }
+.main-menu .ubermenu-active { background-color:#3357a6; }
+.main-menu .ubermenu-active a { color:#fff; }
+
+@media screen and (max-width: 1024px) {
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 640px) {
+}
+@media screen and (max-width: 375px) {
+}
+@media screen and (max-width: 320px) {
+}

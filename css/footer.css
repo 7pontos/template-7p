@@ -1,0 +1,23 @@
+/** 
+* Theme: 7 Pontos
+* Version 2.0
+* Since Version: 1.0
+*/
+
+.footer { color:#000; }
+.footer .rodape { background-color:#1176ba; padding:30px 0; }
+
+.copyright { background-color:#19376f; padding:20px 0; text-transform:uppercase; color:#fff; }
+.copyright a { text-decoration:none; color:#fff; }, .copyright a:hover { color:#fff; }
+.copyright p { margin:0; font-size:17px; }
+
+@media screen and (max-width: 1024px) {	
+}
+@media screen and (max-width: 768px) {	
+}
+@media screen and (max-width: 640px) {	
+}
+@media screen and (max-width: 375px) {	
+}
+@media screen and (max-width: 320px) {	
+}
