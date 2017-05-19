@@ -20,11 +20,37 @@ Since: 1.0
 /*** MAIN STYLES ***/
 
 /* Adicionar efeito suave de Fonte de CSS para tentar se aproximar as Fontes do Photoshop */
-body { -webkit-font-smoothing: antialiased; }
-input, select, textarea { width:100%; max-width:100%; }
+body { 
+	font-family: 'Open Sans', sans-serif !important; 
+	-webkit-font-smoothing: antialiased; 
+}
+
+/*** Criar Formato Padrão para o CONTACT FORM 7 ***/
+input, select, textarea { 
+	width:100%; 
+	max-width:100%; 
+}
 
 /*** HOME ***/
-h2 { font-weight:bold; text-transform:uppercase; }
+h2 { 
+	font-weight:bold; 
+	text-transform:uppercase; 
+}
+
+p { 
+	font-size:21px;
+	line-height:36px;
+}
+
+
+/*** SEÇÃO 01 - (NOME) ***/
+
+
+/*** SEÇÃO 02 - (NOME) ***/
+
+
+/*** SEÇÃO 03 - (NOME) ***/
+
 
 
 /*** Category/Blog Page ***/
